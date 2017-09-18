@@ -3,5 +3,5 @@
 	<h2>Black Guitar</h2>
 	<img src="Music/blackmetallicaguitar.svg">
 	<h2>Boombox</h2>
-	<img src="Music/80sboombox">
+	<img src="Music/80sboombox.svg">
 </article>

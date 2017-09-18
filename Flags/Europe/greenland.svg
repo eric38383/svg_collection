@@ -1,0 +1,13 @@
+<svg width="619px" height="400px" viewBox="0 0 619 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Greenland">
+            <rect id="Rectangle-7" fill="#E20012" x="0" y="200" width="600" height="200"></rect>
+            <rect id="Rectangle-7-Copy" fill="#FFFFFF" x="19" y="0" width="600" height="200"></rect>
+            <path d="M377,200 C377,117.157288 309.842712,50 227,50 C144.157288,50 77,117.157288 77,200" id="Oval-6" fill="#E20012"></path>
+            <path d="M377,350 C377,267.157288 309.842712,200 227,200 C144.157288,200 77,267.157288 77,350" id="Oval-6-Copy" fill="#FFFFFF" transform="translate(227.000000, 275.000000) rotate(180.000000) translate(-227.000000, -275.000000) "></path>
+        </g>
+    </g>
+</svg>

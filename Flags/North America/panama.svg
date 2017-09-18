@@ -1,0 +1,15 @@
+<svg width="600px" height="400px" viewBox="0 0 600 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Panama">
+            <rect id="Rectangle-23" fill="#FFFFFF" x="0" y="0" width="300" height="200"></rect>
+            <rect id="Rectangle-23-Copy-2" fill="#E40014" x="300" y="0" width="300" height="200"></rect>
+            <rect id="Rectangle-23-Copy-3" fill="#FFFFFF" x="300" y="200" width="300" height="200"></rect>
+            <rect id="Rectangle-23-Copy" fill="#004893" x="0" y="200" width="300" height="200"></rect>
+            <polygon id="Star-2-Copy" fill="#004893" points="149.5 119.395456 120.992415 139.737324 131.529353 106.339017 103.373759 85.5126758 138.393529 85.2132546 149.5 52 160.606471 85.2132546 195.626241 85.5126758 167.470647 106.339017 178.007585 139.737324"></polygon>
+            <polygon id="Star-2-Copy-2" fill="#E40014" points="449.5 319.395456 420.992415 339.737324 431.529353 306.339017 403.373759 285.512676 438.393529 285.213255 449.5 252 460.606471 285.213255 495.626241 285.512676 467.470647 306.339017 478.007585 339.737324"></polygon>
+        </g>
+    </g>
+</svg>

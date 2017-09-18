@@ -1,0 +1,22 @@
+<svg width="97px" height="61px" viewBox="0 0 97 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch. By Eric Falchier</desc>
+    <defs>
+        <ellipse id="path-1" cx="29.0943269" cy="28.9924394" rx="3.44357758" ry="2.93044419"></ellipse>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Flashlight" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 0.467999)">
+        <path d="M20.4326118,19.9061778 C20.4326118,19.9061778 17.6918256,17.859782 16.1260704,15.2853099 C13.9497287,11.7068893 12.2877437,7.60039236 12.2877437,7.60039236 L25.8214796,7.60039236 L31.702361,7.60039236 L45.7027595,7.60039236 C45.7027595,7.60039236 46.3401525,7.40744707 44.5386896,11.1347769 C44.0143426,12.2196809 43.3421231,13.5423223 42.5380414,14.7572337 C40.5795949,17.7163097 37.4637311,19.9061778 37.4637311,19.9061778 L37.4637311,57.1922412 L21.040515,57.1922412 L20.4326118,19.9061778 Z M11.9785852,5.59336859 L11.9785852,0.426332062 C11.9785852,0.426332062 20.4096288,1.36234834 28.8406724,1.36234834 C37.271716,1.36234834 45.7027595,0.426332062 45.7027595,0.426332062 L45.7027595,3.24737656 C45.7027595,4.02750395 45.7027595,5.59336859 45.7027595,5.59336859 L11.9785852,5.59336859 Z" id="Rectangle-2" stroke="#000000" transform="translate(28.895400, 28.809287) rotate(90.000000) translate(-28.895400, -28.809287) "></path>
+        <g id="Oval-4">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use stroke="#FFFFFF" stroke-width="1" fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <polygon id="Rectangle-3" fill="transparent" points="65.1106536 13.4736507 96.7498288 0.532000547 96.7498288 59.1331816 65.1106536 43.8947541"></polygon>
+    </g>
+</svg>

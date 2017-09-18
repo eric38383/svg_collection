@@ -1,0 +1,35 @@
+<svg width="154px" height="194px" viewBox="0 0 154 194" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="42.1102362" width="150" height="148.889764"></rect>
+        <filter x="-1.7%" y="-1.7%" width="104.7%" height="104.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="30.5800525" width="150" height="11.5301837"></rect>
+        <filter x="-1.7%" y="-21.7%" width="104.7%" height="160.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Brown_Grocery_bag" transform="translate(1.000000, 0.000000)">
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#C49D6A" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Rectangle-5">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#8F6D49" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#9C702A" stroke-width="0.5" x="0.25" y="30.8300525" width="149.5" height="11.0301837"></rect>
+            </g>
+            <rect id="Rectangle-4" fill="#C49D6A" x="45.5" y="0" width="60" height="7.51968504"></rect>
+            <path d="M47.25,0 L47.25,0 C48.7687831,-2.78995922e-16 50,1.23121694 50,2.75 L50,39.3602362 L50,39.3602362 C50,40.8790193 48.7687831,42.1102362 47.25,42.1102362 L47.25,42.1102362 L47.25,42.1102362 C45.7312169,42.1102362 44.5,40.8790193 44.5,39.3602362 L44.5,2.75 L44.5,2.75 C44.5,1.23121694 45.7312169,2.78995922e-16 47.25,0 L47.25,0 Z M102.75,0 C104.268783,-2.78995922e-16 105.5,1.23121694 105.5,2.75 L105.5,39.3602362 L105.5,39.3602362 C105.5,40.8790193 104.268783,42.1102362 102.75,42.1102362 C101.231217,42.1102362 100,40.8790193 100,39.3602362 L100,2.75 L100,2.75 C100,1.23121694 101.231217,2.78995922e-16 102.75,0 Z" id="Rectangle-3" fill="#C49D6A"></path>
+            <path d="M0.25,154.153543 L149.25,154.153543" id="Line-7" stroke="#8B572A" stroke-width="0.5" opacity="0.130491395" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

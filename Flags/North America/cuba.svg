@@ -1,0 +1,33 @@
+<svg width="800px" height="400px" viewBox="0 0 800 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="115" y="31" width="800" height="80"></rect>
+        <rect id="path-2" x="115" y="111" width="800" height="80"></rect>
+        <rect id="path-3" x="115" y="191" width="800" height="80"></rect>
+        <rect id="path-4" x="115" y="271" width="800" height="80"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cuba" transform="translate(-115.000000, -31.000000)">
+            <g id="Rectangle-24">
+                <use fill="#13029F" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#979797" stroke-width="1" x="115.5" y="31.5" width="799" height="79"></rect>
+            </g>
+            <g id="Rectangle-24-Copy">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#979797" stroke-width="1" x="115.5" y="111.5" width="799" height="79"></rect>
+            </g>
+            <g id="Rectangle-24-Copy-2">
+                <use fill="#13029F" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#979797" stroke-width="1" x="115.5" y="191.5" width="799" height="79"></rect>
+            </g>
+            <g id="Rectangle-24-Copy-3">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                <rect stroke="#979797" stroke-width="1" x="115.5" y="271.5" width="799" height="79"></rect>
+            </g>
+            <rect id="Rectangle-24-Copy-4" fill="#13029F" x="115" y="351" width="800" height="80"></rect>
+            <polygon id="Polygon-2-Copy" fill="#E50000" transform="translate(231.000000, 231.000000) rotate(90.000000) translate(-231.000000, -231.000000) " points="231 0 431.051868 346.5 30.9481317 346.5"></polygon>
+            <polygon id="Star-2-Copy-3" fill="#FFFFFF" points="230.5 257.018606 192.000066 284.490613 206.230363 239.385683 168.205798 211.259387 215.50054 210.855014 230.5 166 245.49946 210.855014 292.794202 211.259387 254.769637 239.385683 268.999934 284.490613"></polygon>
+        </g>
+    </g>
+</svg>

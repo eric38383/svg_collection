@@ -1,0 +1,22 @@
+<svg width="650px" height="450px" viewBox="0 0 650 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="187" y="0" width="50" height="400"></rect>
+        <rect id="path-2" x="0" y="175" width="600" height="50"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Faroe-Islands" transform="translate(25.000000, 25.000000)">
+            <rect id="Rectangle-10" fill="#FFFFFF" x="0" y="0" width="600" height="400"></rect>
+            <g id="Rectangle-11">
+                <use fill="#EF3340" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#005EB8" stroke-width="25" x="174.5" y="-12.5" width="75" height="425"></rect>
+            </g>
+            <g id="Rectangle-12">
+                <use fill="#EF1E35" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#005EB8" stroke-width="25" x="-12.5" y="162.5" width="625" height="75"></rect>
+            </g>
+            <rect id="Rectangle-13" fill="#EF3340" x="187" y="150" width="50" height="100"></rect>
+        </g>
+    </g>
+</svg>

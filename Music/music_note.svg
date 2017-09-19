@@ -1,0 +1,14 @@
+<svg width="71px" height="104px" viewBox="0 0 71 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="music_note" transform="translate(-5.000000, 0.000000)">
+            <path d="M19.8473738,106.264808 C25.7568207,106.264808 30.3224287,97.3759964 30.3224287,88.3018768 C30.3224287,79.2277571 26.2250048,70.6488242 20.315558,70.6488242 C14.4061112,70.6488242 8.92242874,79.2277571 8.92242874,88.3018768 C8.92242874,97.3759964 13.937927,106.264808 19.8473738,106.264808 Z" id="Oval-23" stroke="#000000" stroke-width="0.5" fill="#000000" transform="translate(19.622429, 88.456816) rotate(40.000000) translate(-19.622429, -88.456816) "></path>
+            <path d="M61.4473738,69.1967929 C67.3568207,69.1967929 71.9224287,60.3079817 71.9224287,51.2338621 C71.9224287,42.1597424 67.8250048,33.5808095 61.915558,33.5808095 C56.0061112,33.5808095 50.5224287,42.1597424 50.5224287,51.2338621 C50.5224287,60.3079817 55.537927,69.1967929 61.4473738,69.1967929 Z" id="Oval-23-Copy" stroke="#000000" stroke-width="0.5" fill="#000000" transform="translate(61.222429, 51.388801) rotate(40.000000) translate(-61.222429, -51.388801) "></path>
+            <path d="M31,74.6369485 L31,27.9512868" id="Line-23" stroke="#000000" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M73.6,38.5707721 L73.6,10.7196691" id="Line-23-Copy" stroke="#000000" stroke-width="2" stroke-linecap="square"></path>
+            <polygon id="Rectangle-36" fill="#000000" transform="translate(52.256111, 13.988949) rotate(-21.000000) translate(-52.256111, -13.988949) " points="30.9127452 8.97975742 78.006111 9.65716639 74.2246454 18.9981398 26.506111 18.9981398"></polygon>
+        </g>
+    </g>
+</svg>

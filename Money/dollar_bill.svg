@@ -1,0 +1,26 @@
+<svg width="184px" height="73px" viewBox="0 0 184 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="184" height="73"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dollar_bill">
+            <g id="Rectangle-50">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#000000" stroke-width="4" x="2" y="2" width="180" height="69"></rect>
+            </g>
+            <ellipse id="Oval-30" fill="#000000" cx="91.5" cy="36" rx="31.5" ry="29"></ellipse>
+            <g id="Dollar-Sign-Copy" transform="translate(80.000000, 9.000000)" fill="#00D928">
+                <rect id="Rectangle-7" transform="translate(10.592000, 26.000000) scale(-1, 1) translate(-10.592000, -26.000000) " x="8" y="6" width="5.184" height="40"></rect>
+                <text id="S" font-family="MyanmarMN, Myanmar MN" font-size="41.472" font-weight="normal">
+                    <tspan x="0" y="41">S</tspan>
+                </text>
+            </g>
+            <path d="M1.1044002,15.3579099 C1.45732204,15.3817977 0.745097202,16 1.1044002,16 C9.31557374,16 15.9720451,9.65575645 15.9720451,1.82973541 C15.9720451,1.28447891 16.0349436,1.52922624 15.9720451,1 L1.1044002,1 L1.1044002,15.3579099 Z" id="Oval-31" fill="#000000"></path>
+            <path d="M169.1044,15.3579099 C169.457322,15.3817977 168.745097,16 169.1044,16 C177.315574,16 183.972045,9.65575645 183.972045,1.82973541 C183.972045,1.28447891 184.034944,1.52922624 183.972045,1 L169.1044,1 L169.1044,15.3579099 Z" id="Oval-31-Copy-2" fill="#000000" transform="translate(176.500000, 8.500000) scale(-1, 1) translate(-176.500000, -8.500000) "></path>
+            <path d="M169.1044,71.3579099 C169.457322,71.3817977 168.745097,72 169.1044,72 C177.315574,72 183.972045,65.6557564 183.972045,57.8297354 C183.972045,57.2844789 184.034944,57.5292262 183.972045,57 L169.1044,57 L169.1044,71.3579099 Z" id="Oval-31-Copy-3" fill="#000000" transform="translate(176.500000, 64.500000) scale(-1, -1) translate(-176.500000, -64.500000) "></path>
+            <path d="M1.1044002,71.3579099 C1.45732204,71.3817977 0.745097202,72 1.1044002,72 C9.31557374,72 15.9720451,65.6557564 15.9720451,57.8297354 C15.9720451,57.2844789 16.0349436,57.5292262 15.9720451,57 L1.1044002,57 L1.1044002,71.3579099 Z" id="Oval-31-Copy" fill="#000000" transform="translate(8.500000, 64.500000) scale(1, -1) translate(-8.500000, -64.500000) "></path>
+        </g>
+    </g>
+</svg>

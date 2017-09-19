@@ -5,5 +5,5 @@
 	<h2>Boombox</h2>
 	<img src="Music/80sboombox.svg">
 	<h2>Old Polaroid Camera</h2>
-	<img src="Music/polaroidlandcamera.svg">
+	<img src="Others/polaroidlandcamera.svg">
 </article>
